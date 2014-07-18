@@ -16,9 +16,9 @@
 	
 - 实例：
 
-	例如服务器名称为 xx.alipay.net  用户名为 admin  想使用的别名为 xx
+	例如服务器名称为 xx.a.net  用户名为 admin  想使用的别名为 xx
 	
-	则: ./sshnopwd.sh -h xx.alipay.net -u admin  -a xx
+	则: ./sshnopwd.sh -h xx.a.net -u admin  -a xx
 	
 	执行一次之后，以后要登录服务器只需要  ssh xx  就可以了，无需输入密码
 	
